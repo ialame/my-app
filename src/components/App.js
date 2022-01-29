@@ -1,7 +1,6 @@
 import { Component } from 'react';
-import Text from './components/Text';
-import Header from './components/Header';
-import Team  from './components/Team';
+import Header from './Header';
+import Team  from './Team';
 
 
 class App extends Component {
